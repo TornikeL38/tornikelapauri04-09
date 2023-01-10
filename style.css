@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.navigation{
+    height: 100vh;
+    width: 100px;
+    background-color: #FFC297;
+    display: inline-block;
+}
+.iconhome img {
+    height: 25px;
+    position: relative;
+    top: 100px;
+    left: 34px;
+}
+.iconbell img{
+    height: 25px;
+    position: relative;
+    top: 145px;
+    left: 34px;
+}
+.iconcalendar img{
+    height: 25px;
+    position: relative;
+    top: 190px;
+    left: 34px;
+}
