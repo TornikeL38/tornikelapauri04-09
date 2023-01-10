@@ -57,3 +57,55 @@
     bottom: 35px;
     left: 35px;
 }
+.settings{
+    background-color: #FFFFFF;
+    display: inline-block;
+    height: 100vh;
+    width: 200px;
+    vertical-align: top;
+}
+.InSideDiv h2{
+    height: 30px;
+    position: relative;
+    top: 38px;
+    left: 50px;
+}
+.iconarrow img{
+    height: 30px;
+    position: relative;
+    left: 0;
+    top: 4px;
+}
+.iconpencil img{
+    height: 20px;
+    position: relative;
+    left: 50px;
+    top: 24px;
+}
+ul{
+    list-style: none;
+}
+.iconbell1 img{
+    height: 20px;
+    position: relative;
+    left: 50px;
+    top: 70px;
+}
+.iconlock img{
+    height: 20px;
+    position: relative;
+    left: 50px;
+    top: 120px;
+}
+.iconsetting1 img{
+    height: 20px;
+    position: relative;
+    left: 50px;
+    top: 170px;
+}
+.iconquestion img{
+    height: 20px;
+    position: relative;
+    left: 50px;
+    top: 220px;
+}
