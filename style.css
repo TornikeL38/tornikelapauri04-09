@@ -139,3 +139,50 @@ ul{
     left: 90px;
     top: 118px;
 }
+.formsection{
+    display: inline-block; 
+    background-color: #FFFFFF;
+    vertical-align: top;
+    height: 100vh;
+    width: 100vh;
+    margin-left: 150px;
+}
+.formsection h2{
+    position: relative;
+    top: 30px;
+}
+.formsection form{
+    position: relative;
+    top: 60px;
+}
+#h4{
+    position: relative;
+    top: 51px;
+}
+#Lname{
+    position: relative;
+    top: -20px;
+    right: -220px;
+}
+#h4-2{
+    position: relative;
+    top: -70px;
+    right: -220px;
+}
+.size{
+    width: 390px;
+}
+#state{
+    position: relative;
+    top: -40px;
+    left: 225px;
+}
+#h4-4{
+    position: relative;
+    top: -40px;
+    left: 225px;
+}
+.button{
+    display: inline-block;
+    margin-top: 70px;
+}
